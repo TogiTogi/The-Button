@@ -1,0 +1,1 @@
+Press the button to get points. The more points you have, the more likely it is that your score resets. You start at 0% chance, and increases with 1% chance to reset every time your score increases untill it resets. Try to get the highest score possible!
