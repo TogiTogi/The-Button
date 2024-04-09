@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#theButton {
+    background: linear-gradient(rgb(85, 85, 85), rgb(63, 63, 63));
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 30px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: auto;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+#theButton:active {
+    background: rgb(87, 87, 87);
+    color: white;
+}
+
+#score {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
