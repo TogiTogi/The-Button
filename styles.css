@@ -3,6 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(85, 85, 85);
+    color: rgb(255, 255, 255);
+    padding: 10px 0;
 }
 
 #theButton {
@@ -28,8 +35,4 @@ body {
 #score {
     text-align: center;
     font-weight: bold;
-}
-
-h1 {
-    text-align: center;
 }
